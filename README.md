@@ -9,6 +9,7 @@ For this project, we will use GloVe to create our word embeddings and CNNs follo
 --
 
 Running Environment:
+
 OS: Ubuntu 16.04 LTS
 
 Python: version 2.7
